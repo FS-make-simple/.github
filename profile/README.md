@@ -20,8 +20,18 @@ This organization includes simple tools for working with file systems.
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/cdrparity)
 * [dvdisaster](https://github.com/FS-make-simple/dvdisaster):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/dvdisaster)
+* [filterfs](https://github.com/FS-make-simple/filterfs):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/filterfs)
+![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/filterfs)
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/filterfs)
+![GitHub all releases](https://img.shields.io/github/downloads/FS-make-simple/filterfs/total)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/filterfs)
 * [fuse-cdfs](https://github.com/FS-make-simple/fuse-cdfs):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/fuse-cdfs)
+![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/fuse-cdfs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/fuse-cdfs)
+![GitHub all releases](https://img.shields.io/github/downloads/FS-make-simple/fuse-cdfs/total)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/fuse-cdfs)
 * [fusecompress](https://github.com/FS-make-simple/fusecompress):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/fusecompress)
 ![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/fusecompress)
@@ -49,6 +59,12 @@ This organization includes simple tools for working with file systems.
 * [reiserfs-defrag](https://github.com/FS-make-simple/reiserfs-defrag):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/reiserfs-defrag)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/reiserfs-defrag)
+* [shake](https://github.com/FS-make-simple/shake):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/shake)
+![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/shake)
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/shake)
+![GitHub all releases](https://img.shields.io/github/downloads/FS-make-simple/shake/total)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/shake)
 * [squashdelta](https://github.com/FS-make-simple/squashdelta):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/squashdelta)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/squashdelta)
@@ -61,6 +77,9 @@ This organization includes simple tools for working with file systems.
 * [whdd](https://github.com/FS-make-simple/whdd):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/whdd)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/whdd)
+* [xfs_undelete](https://github.com/FS-make-simple/xfs_undelete):
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/xfs_undelete)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/xfs_undelete)
 
 #### pack:
 
@@ -81,6 +100,9 @@ This organization includes simple tools for working with file systems.
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/fixtar)
 * [gzrt](https://github.com/FS-make-simple/gzrt):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/gzrt)
+* [kek](https://github.com/FS-make-simple/kek):
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/kek)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/kek)
 * [kgb](https://github.com/FS-make-simple/kgb):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/kgb)
 ![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/kgb)
@@ -122,6 +144,8 @@ This organization includes simple tools for working with file systems.
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/paq9a)
 ![GitHub all releases](https://img.shields.io/github/downloads/FS-make-simple/paq9a/total)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/paq9a)
+* [snzip](https://github.com/FS-make-simple/snzip):
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/snzip)
 * [undup](https://github.com/FS-make-simple/undup):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/undup)
 ![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/undup)
@@ -131,6 +155,8 @@ This organization includes simple tools for working with file systems.
 * [unzipru](https://github.com/FS-make-simple/unzipru):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/unzipru)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/unzipru)
+* [xrle](https://github.com/FS-make-simple/xrle):
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/xrle)
 
 #### delta:
 
