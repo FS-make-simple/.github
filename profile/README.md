@@ -49,6 +49,12 @@ This organization includes simple tools for working with file systems.
 * [reiserfs-defrag](https://github.com/FS-make-simple/reiserfs-defrag):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/reiserfs-defrag)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/reiserfs-defrag)
+* [shake](https://github.com/FS-make-simple/shake):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/FS-make-simple/shake)
+![GitHub Release Date](https://img.shields.io/github/release-date/FS-make-simple/shake)
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/shake)
+![GitHub all releases](https://img.shields.io/github/downloads/FS-make-simple/shake/total)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/shake)
 * [squashdelta](https://github.com/FS-make-simple/squashdelta):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/squashdelta)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/squashdelta)
