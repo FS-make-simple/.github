@@ -61,6 +61,9 @@ This organization includes simple tools for working with file systems.
 * [whdd](https://github.com/FS-make-simple/whdd):
 ![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/whdd)
 ![GitHub](https://img.shields.io/github/license/FS-make-simple/whdd)
+* [xfs_undelete](https://github.com/FS-make-simple/xfs_undelete):
+![GitHub repo size](https://img.shields.io/github/repo-size/FS-make-simple/xfs_undelete)
+![GitHub](https://img.shields.io/github/license/FS-make-simple/xfs_undelete)
 
 #### pack:
 
